@@ -1,8 +1,8 @@
-## Welcome to skattoju's GitHub Page
+## Learning Exhaust 🚀
 
-You can use the [editor on GitHub](https://github.com/skattoju/skattoju.github.io/edit/main/index.md) to maintain and preview the content for skattoju's website in Markdown files.
+Siddhartha can use the [editor on GitHub](https://github.com/skattoju/skattoju.github.io/edit/main/index.md) to maintain and preview the content for skattoju's website in Markdown files.
 
-Whenever skattoju commits to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in skattoju's site, from the content in skattoju's Markdown files.
+Whenever Siddhartha commits to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in skattoju's site, from the content in skattoju's Markdown files.
 
 ### Markdown
 
