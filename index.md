@@ -4,6 +4,8 @@ Siddhartha can use the [editor on GitHub](https://github.com/skattoju/skattoju.g
 
 Whenever Siddhartha commits to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in skattoju's site, from the content in skattoju's Markdown files.
 
+<a rel="me" href="https://defcon.social/@skattoju">Mastodon</a>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
