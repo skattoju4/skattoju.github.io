@@ -1,10 +1,11 @@
 ## Learning Exhaust 🚀
 
-Siddhartha can use the [editor on GitHub](https://github.com/skattoju/skattoju.github.io/edit/main/index.md) to maintain and preview the content for skattoju's website in Markdown files.
+One can use the [editor on GitHub](https://github.com/skattoju/skattoju.github.io/edit/main/index.md) to maintain and preview the content for skattoju's website in Markdown files.
 
 Whenever Siddhartha commits to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in skattoju's site, from the content in skattoju's Markdown files.
 
-<a rel="me" href="https://defcon.social/@skattoju">Mastodon</a>
+New age federated social called <a rel="me" href="https://defcon.social/@skattoju">Mastodon</a>
+Arbritary contribution to a winning cubesat design with <a href="https://www.concordia.ca/cunews/encs/2012/10/01/first-place-finish-for-space-concordia-team.html">Space Concordia</a> 
 
 ### Markdown
 
