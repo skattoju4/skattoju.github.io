@@ -4,7 +4,9 @@ One can use the [editor on GitHub](https://github.com/skattoju/skattoju.github.i
 
 Whenever Siddhartha commits to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in skattoju's site, from the content in skattoju's Markdown files.
 
-New age federated social called <a rel="me" href="https://mastodon.social/@skattoju">Mastodon</a> and an arbritary contribution to a winning cubesat design with <a href="https://www.concordia.ca/cunews/encs/2012/10/01/first-place-finish-for-space-concordia-team.html">Space Concordia</a> 
+With new New age federated socials called <a rel="me" href="https://mastodon.social/@skattoju">Mastodon</a> and <a rel="mypixels" href="https://pixelfed.social/i/web/profile/580938769890078559">PixelFed</a>, who needs big tech ?
+
+An arbritary contribution to the simulation and design of a passive magnetic attitude control system for a cubesat design which won a thing <a href="https://www.concordia.ca/cunews/encs/2012/10/01/first-place-finish-for-space-concordia-team.html">Space Concordia</a> 
 
 ### Zero Emissions Learning
 
