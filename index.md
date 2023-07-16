@@ -1,6 +1,6 @@
 ## Learning Exhaust 🚀
 
-Supposedly the internet is where one documents what one has learned. For example many years go an arbritary contribution to the <a href="https://github.com/skattoju/acs">simulation</a> and design of a passive magnetic attitude control system for a cubesat design which won a thing <a href="https://www.concordia.ca/cunews/encs/2012/10/01/first-place-finish-for-space-concordia-team.html">Space Concordia</a> 
+Supposedly the internet is where one documents what one has learned. For example many years go an arbritary contribution to the <a href="https://github.com/skattoju/acs">simulation</a> and design of a passive magnetic attitude control system for a cubesat design which won a thing <a href="https://www.concordia.ca/cunews/encs/2012/10/01/first-place-finish-for-space-concordia-team.html">space craft mission design competition</a> 
 
 With new age federated socials called <a rel="me" href="https://mastodon.social/@skattoju">Mastodon</a> and <a rel="mypixels" href="https://pixelfed.social/i/web/profile/580938769890078559">PixelFed</a>, who needs big tech ?
 
