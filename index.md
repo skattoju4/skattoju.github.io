@@ -1,14 +1,17 @@
 ## Learning Exhaust 🚀
 
-Supposedly the internet is where one documents what one has learned. For example many years go an arbritary contribution to the <a href="https://github.com/skattoju/acs">simulation</a> and design of a passive magnetic attitude control system for a cubesat design which won a <a href="https://www.concordia.ca/cunews/encs/2012/10/01/first-place-finish-for-space-concordia-team.html">space craft mission design competition</a> 
-
-With new age federated socials called <a rel="me" href="https://mastodon.social/@skattoju">Mastodon</a> and <a rel="mypixels" href="https://pixelfed.social/i/web/profile/580938769890078559">PixelFed</a>, who needs big tech ?
+Supposedly the internet is where one documents what one has learned. For example many years go an arbritary contribution to the <a href="https://github.com/skattoju/acs">simulation</a> and design of a passive magnetic attitude control system for a cubesat design lead to a winning entry at a <a href="https://www.concordia.ca/cunews/encs/2012/10/01/first-place-finish-for-space-concordia-team.html">space craft mission design competition</a> 
 
 ## Zero Emissions Learning
 
-May be all this talk about learning exhaust is non sense. Probably causes the information entropy equivalent of global warming making it harder to descern useful information. Or may be not. May be ones own brand of self importance is vital to the internet on some thread of its fabric 🤷‍♂️ It all about going green.
+May be all this talk about learning exhaust is nonsense. It probably causes the mis-information equivalent of global warming making it harder to descern useful information on the internet and confusing large language models for generations. Or may be not. May be ones own brand of self importance is vital to curating knowledge on many threads of its fabric 🤷‍♂️
+
+## Federated Socials
+
+With new age federated socials called <a rel="me" href="https://mastodon.social/@skattoju">Mastodon</a> and <a rel="mypixels" href="https://pixelfed.social/i/web/profile/580938769890078559">PixelFed</a>, who needs big tech ?
 
 ## Editing guidelines
+
 One can use the [editor on GitHub](https://github.com/skattoju/skattoju.github.io/edit/main/index.md) to maintain and preview the content for skattoju's website in Markdown files.
 
 Whenever a change is committed to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in skattoju's site, from the content in skattoju's Markdown files.
